@@ -1,8 +1,16 @@
-(CJK + Ext-A char) :
-①Ⅻㄨㄩ 啊阿鼾齄丂丄狚狛狜狝﨨﨩ˊˋ˙–⿻〇㐀㐁䶴䶵 U1[]U2[]U3[]
+GB18030 Testing Data(short version)
+中文
+2B-1: ①Ⅻㄨㄩ
+2B-2: 啊阿鼾齄
+2B-3: 丂丄狚狛
+2B-4: 狜狝﨨﨩
+2B-5: ˊˋ˙–⿻〇
+4B: 㐀㐁䶴䶵
+ExtB:𠀀𠀁𪛕𪛖
+藏文:ᠮᠣᠩᠭᠣᠯ  ᠦᠰᠦᠭ  བོད་ཡིག
+Monggolian:ۋېڭكقق ھس قك كدسدق د
+Yi:ꆈꌠꁱꂷ
+Dehong:ᥘᥣᥭᥰ ᥖᥭᥰ ᥖᥬᥲᥑᥨᥒᥰ
+Xishuangbanna:ᦎᦷᦑᦺᦖᦺᧈᦉᦲᧇᦉᦸᧂᦗᧃᦓᦱ
 
-(Ext-B, Mongolia, Tibetan, Uyghur, Yi, Dehong Dai, Xishuangbanna Dai):
-𠀀𠀁𪛕𪛖
-ᠮᠣᠩᠭᠣᠯ  ᠦᠰᠦᠭ  བོད་ཡིག  ۋېڭكقق ھس قك كدسدق د  ꆈꌠꁱꂷ 
-ᥘᥣᥭᥰ ᥖᥭᥰ ᥖᥬᥲᥑᥨᥒᥰ  ᦎᦷᦑᦺᦖᦺᧈᦉᦲᧇᦉᦸᧂᦗᧃᦓᦱ 
   
